@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huflit_Test", "Huflit_Test\Huflit_Test.csproj", "{BFAE12AB-2194-4575-B13D-04EF3FA9A21D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{EEAD6BD5-C204-44E0-A877-FECCCE4C6414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAE12AB-2194-4575-B13D-04EF3FA9A21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAE12AB-2194-4575-B13D-04EF3FA9A21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAE12AB-2194-4575-B13D-04EF3FA9A21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAE12AB-2194-4575-B13D-04EF3FA9A21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEAD6BD5-C204-44E0-A877-FECCCE4C6414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAD6BD5-C204-44E0-A877-FECCCE4C6414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAD6BD5-C204-44E0-A877-FECCCE4C6414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAD6BD5-C204-44E0-A877-FECCCE4C6414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12EC2779-C446-4779-97F0-F457BD17D27C}
+	EndGlobalSection
+EndGlobal
